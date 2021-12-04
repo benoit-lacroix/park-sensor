@@ -1,0 +1,3 @@
+# `cad` directory
+
+There goes 3D CAD parts, assemblies...
