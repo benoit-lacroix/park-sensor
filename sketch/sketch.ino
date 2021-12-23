@@ -31,7 +31,7 @@ int yled = 26;
 int rled = 27;
 
 int minDistance;
-int lastDistance = -1;
+int lastDistance = MAX_DISTANCE + 1;
 int timer;
 
 void setup () {
